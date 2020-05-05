@@ -1,0 +1,8 @@
+*/build/
+*/*.3dsx
+*/*.smdh
+*/.idea/
+*/bin/
+*/obj/
+*/.vs/
+.vs/
